@@ -86,6 +86,7 @@ This portal allows you to:
    );
    ```
 
+
 3. **Configure Database Connection**
    - Open `db.php` and make sure your database credentials are correct:
    ```php
@@ -94,6 +95,7 @@ This portal allows you to:
    $pass = "";
    $db = "student_db";
    ```
+
 
 4. **Start XAMPP**
    - Start Apache and MySQL services in XAMPP Control Panel
@@ -177,4 +179,5 @@ This is a student project - feel free to use it for learning purposes!
 If you have any questions or feedback, feel free to reach out!
 
 Happy coding! 💻✨
+
 
